@@ -1,4 +1,4 @@
-* {
-  background-attachment: fixed;
-  padding: auto;
+p {
+  margin: auto;
+  border: 1px red solid;
 }
